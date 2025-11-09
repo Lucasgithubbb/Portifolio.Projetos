@@ -1,2 +1,1 @@
-Nos arquivos anexados no meu repositório é demonstrado os trabalhos que realizei durante o curso de Análise e Desenvolvimento de Sistemas. 
-Os processos executados, linguagem utilizadas e as ferramentas empregadas para atingir os objetivos programados. 
+Nos arquivos anexados ao meu repositório, são apresentados os trabalhos que realizei durante o curso de Análise e Desenvolvimento de Sistemas, bem como os processos executados, as linguagens utilizadas e as ferramentas empregadas para atingir os objetivos propostos.
